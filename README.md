@@ -1,4 +1,4 @@
-[![BriskBear](https://dc-dynamic-marketing.com/polar-bear.svg)](https://github.com/briskbear)  
+[![BriskBear](http://dc-dynamic-marketing.com/polar-bear.svg)](https://github.com/briskbear)  
 ```bash
     ____       _      __   ____
    / __ )_____(_)____/ /__/ __ )___  ____ ______
